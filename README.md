@@ -1,4 +1,4 @@
-# Python-API_Challenge-HW6
+# Python-API_Challenge
 Data's true power is its ability to definitively answer questions. So, I've taken what I've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 Now, I know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
 
